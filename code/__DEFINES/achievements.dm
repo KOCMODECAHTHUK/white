@@ -34,9 +34,12 @@
 #define MEDAL_BLADE_ASCENSION 	"Blade"
 #define MEDAL_TOOLBOX_SOUL		"Toolsoul"
 #define MEDAL_CHEM_TUT          "Beginner Chemist"
-#define MEDAL_HOT_DAMN "Hot Damn!"
-#define MEDAL_CAYENNE_DISK "Very Important Piscis"
-#define MEDAL_TRAM_SURFER "Tram Surfer"
+#define MEDAL_HOT_DAMN          "Hot Damn!"
+#define MEDAL_CAYENNE_DISK      "Very Important Piscis"
+#define MEDAL_TRAM_SURFER       "Tram Surfer"
+#define MEDAL_CULT_SHUTTLE_OMFG "WHAT JUST HAPPENED"
+#define MEDAL_NARSUPREME        "Narsupreme"
+#define MEDAL_SPRINGLOCK        "The Man Inside the Modsuit"
 
 //Skill medal hub IDs
 #define MEDAL_LEGENDARY_MINER		"Legendary Miner"

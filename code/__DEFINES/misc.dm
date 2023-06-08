@@ -418,6 +418,7 @@ GLOBAL_LIST_INIT(pda_styles, sort_list(list(MONO, VT, ORBITRON, SHARE)))
 #define EXPLORATION_FLAVOUR "exploration.json"
 /// File location for ninja lines
 #define NINJA_FILE "ninja.json"
+#define CULT_SHUTTLE_CURSE "cult_shuttle_curse.json"
 
 #define SUMMON_GUNS "guns"
 #define SUMMON_MAGIC "magic"
